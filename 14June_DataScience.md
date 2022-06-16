@@ -35,7 +35,7 @@
 - AlphaFold - 50 year old prob (3d arrang of protien in space  by graph)(gradient decesnt)--(help in detecting protein structure and hence help in making antibiotics coviud)
 - CS224 Machine learnoing with graph 
 
-##ATMOSPHERIC MODELLING 
+## ATMOSPHERIC MODELLING 
 - Google ai blog (neural wather model)(no need of physic - use radar and images from geostation and predict future weather )-- DEep learning (tpus)(more accurate )
 - NOWCASTING - local immediate 1-3 hour forecasting (wrt 6 hour by traditional )
 
